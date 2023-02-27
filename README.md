@@ -28,8 +28,8 @@ Always willing to learn more, since curiosity is a quality that characterizes hi
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3> 
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JuanParraIV" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juan-jose-bianchi/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/juanb_90" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/juan-jose-bianchi/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="JuanParraIV" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/juanb_90" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="juanmarioparra" height="50" width="50" /></a>
 </p>
 <hr>
 
