@@ -48,10 +48,4 @@ I'm a Full Stack Developer with an orientation to the Front-End. I am passionate
 
 ## 💻 My Projects 
 
--(https://beta.henrymusic.tech/)
-Full Stack Project realized as a final project for Soy Henry    
-Henry Music - App Streaming De Música.
- <a href="https://github.com/juanxp1/henryMusic.git">
-![landing](https://user-images.githubusercontent.com/110571765/221952044-30ed8ecd-0e84-43da-a2fd-1428e1c50953.png)
-</a>
 
